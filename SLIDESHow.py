@@ -10,11 +10,12 @@ root.title("Image Slideshow App")
 root.geometry("600x500")
 
 # 2. Define Image Paths
+#put your Image paths
 image_paths = [
-              r"C:\Users\SOMNATH DAKAL\OneDrive\Attachments\Desktop\newphotos\Screenshot 2026-05-24 195902.png",
-              r"C:\Users\SOMNATH DAKAL\OneDrive\Attachments\Desktop\newphotos\Screenshot 2026-05-24 200454.png",
-              r"C:\Users\SOMNATH DAKAL\OneDrive\Attachments\Desktop\newphotos\Screenshot 2026-05-24 202058.png",
-              r"C:\Users\SOMNATH DAKAL\OneDrive\Attachments\Desktop\newphotos\WhatsApp Image 2026-06-04 at 10.36.42 PM.jpeg"
+              r"C:\Users\\Desktop\newphotos\Screenshot 2026-05-24 195902.png",
+              r"C:\Users\\Attachments\Desktop\newphotos\Screenshot 2026-05-24 200454.png",
+              r"C:\Users\\Attachments\Desktop\newphotos\Screenshot 2026-05-24 202058.png",
+              r"C:\Users\\Attachments\Desktop\newphotos\2026-06-04 at 10.36.42 PM.jpeg"
               ]
 
 # 3. Process and Load Images using PIL
